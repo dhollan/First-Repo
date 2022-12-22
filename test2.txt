@@ -1,1 +1,4 @@
 Another text file
+
+added some test to my test file and saved it.  Next, I run the git add and git command again as I did before.
+
